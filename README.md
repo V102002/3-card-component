@@ -27,7 +27,7 @@ Users should be able to view 3 cards side by side in 1 row.
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/3-card-component-css-improvement-g8lmLZ0JxV
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://v102002.github.io/3-card-component/
 
 ## My process
 
